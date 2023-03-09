@@ -17,12 +17,12 @@ Must include:
 
 Start by drawing and writing on PAPER!
 1. Once you’ve got some ideas, start gathering the media you’d like to showcase. 
-  - I like Internet Archive for this step.
+    - I like Internet Archive for this step.
 3. Then create pages with short narratives/arguments. 
 4. Add Scalar links to the media throughout.
 5. Create pathways so there’s an organizational scheme.
 6. Add a TOC 
-  - (it’s under properties). 
+    - (it’s under properties). 
 7. Make sure to make it visible without signing in! 
-  - (also under properties)
+    - (also under properties)
 9. Post a link to it as a readme.md file in your github
